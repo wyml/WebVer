@@ -1,0 +1,9 @@
+app_name = "网络验证"
+log_level = "DEBUG"
+
+[mysql]
+database = "wlyz"
+user = "root"
+password = "root"
+host = "127.0.0.1"
+port = 3306
